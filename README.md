@@ -4,4 +4,4 @@ Write a program that reads two positive integers D and i (in this order) from it
 7
 8
 ...
-where the output contains exactly D lines and an empty slot is printed as -1
+where the output contains exactly D lines and an empty slot is printed as -1.
